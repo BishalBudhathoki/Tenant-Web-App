@@ -1,4 +1,10 @@
 # Tenant-Web-App
+
+<p align="center">
+<br />
+    <a href="https://github.com/BishalBudhathoki/Tenant-Web-App/blob/master/app-debug.apk">Check here for the tenant apk file download</a> 
+<br />
+  <br />
 The app that we are developing is called “Hamro Ghar” which literally Means “Our Home”. The idea behind the app comes from the problem general people faces when that time of the month comes to pay the landlord. Issues like past remaining amount or like unclear transaction that occurred. Now from this app that we are developing, our intention is to solve that issue providing landlord to manage tenant details along with all bills and past transaction record. Now this will provide clarity in every transaction that occurs, and every detail are backed up on the cloud, so no data is stored on the device.
 
 # Tools Used
