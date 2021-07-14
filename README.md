@@ -1,6 +1,8 @@
 # Tenant-Web-App
 The app that we are developing is called “Hamro Ghar” which literally Means “Our Home”. The idea behind the app comes from the problem general people faces when that time of the month comes to pay the landlord. Issues like past remaining amount or like unclear transaction that occurred. Now from this app that we are developing, our intention is to solve that issue providing landlord to manage tenant details along with all bills and past transaction record. Now this will provide clarity in every transaction that occurs, and every detail are backed up on the cloud, so no data is stored on the device.
 
+# Tools Used
+Node.js, Mongodb, Express, Nodemon, Cors, Android sdk, Jquery, Html, CSS
 # Motivation
 The people in Nepal faces issues in every month to month transaction when need to pay monthly rent, water bill, electricity bill, other bills to the landlord/owner. There can always be some past transaction issue or the issue in the current transaction. Now with the help of this every detail can be shared with the tenant so every transaction is seamless and clear. This issue is not always the same with other country people and for now this app is targeted to the people in Nepal and more generally towards the people in cities. And not every house will have this kind of issue but to make transaction clear between both parties is always a plus point. </br>
 
